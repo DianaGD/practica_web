@@ -4,6 +4,7 @@ APLICACION DE GESTION WEB DE CLIENTES Y JUGUETES:
 -------------------------------------------------
 
 ---TABLAS EN BASE DE DATOS MYSQL
+
 tabla administradores:
 +login(primary) +pass
 
