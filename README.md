@@ -13,7 +13,7 @@ tabla_clientes:
 +particular_empresa
 
 tabla_juguetes:
-+marca +nombre +descripcion +precio +categoria +edad +incluye
++marca +nombre +descripcion +precio +edad +incluye +id_categoria
 
 tabla_categorias:
 +nombre +descripcion
